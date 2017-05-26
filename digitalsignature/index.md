@@ -46,7 +46,3 @@ By adding public-key encryption to digital signature scheme, we can create a cry
 
 <br>
 [<img style="float: center;" src="https://vereniliana.github.io/digitalsignature/Home.png" width="48">](https://vereniliana.github.io) 
-  
- <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
