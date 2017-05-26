@@ -14,7 +14,7 @@ The reason for encrypting the hash instead of the entire message or document is 
 
 The value of the hash is unique to the hashed data. Any change in the data, even changing or deleting a single character, results in a different value. This attribute enables others to validate the integrity of the data by using the signer's public key to decrypt the hash. If the decrypted hash matches a second computed hash of the same data, it proves that the data hasn't changed since it was signed. If the two hashes don't match, the data has either been tampered with in some way (integrity) or the signature was created with a private key that doesn't correspond to the public key presented by the signer (authentication).
 
-![Digital Signature Scheme](https://vereniliana.github.com/digitalsignature/ds_pic.png)
+![Digital Signature Scheme](https://vereniliana.github.io/digitalsignature/ds_pic.png)
 
 The following points explain the entire process in detail
 *	Each person adopting this scheme has a public-private key pair.
@@ -35,7 +35,7 @@ Apart from ability to provide non-repudiation of message, the digital signature 
 *	**Non-repudiation** − Since it is assumed that only the signer has the knowledge of the signature key, he can only create unique signature on a given data. Thus, the receiver can present data and the digital signature to a third party as evidence if any dispute arises in the future.
 By adding public-key encryption to digital signature scheme, we can create a cryptosystem that can provide the four essential elements of security namely − Privacy, Authentication, Integrity, and Non-repudiation.
 
-###### References
-[https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm] (https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
-[http://searchsecurity.techtarget.com/definition/digital-signature] (http://searchsecurity.techtarget.com/definition/digital-signature)
-[http://www.cryptography-textbook.com/] (http://www.cryptography-textbook.com/)
+##### References
+[tutorialspoint.com] (https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
+[searchsecurity.techtarget.com] (http://searchsecurity.techtarget.com/definition/digital-signature)
+[cryptography-textbook.com] (http://www.cryptography-textbook.com/)
