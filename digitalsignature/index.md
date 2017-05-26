@@ -36,6 +36,6 @@ Apart from ability to provide non-repudiation of message, the digital signature 
 By adding public-key encryption to digital signature scheme, we can create a cryptosystem that can provide the four essential elements of security namely − Privacy, Authentication, Integrity, and Non-repudiation.
 
 ##### References
-[tutorialspoint.com] (https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
-[searchsecurity.techtarget.com] (http://searchsecurity.techtarget.com/definition/digital-signature)
-[cryptography-textbook.com] (http://www.cryptography-textbook.com/)
+[tutorialspoint] (https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
+[searchsecurity.techtarget] (http://searchsecurity.techtarget.com/definition/digital-signature)
+[cryptography-textbook] (http://www.cryptography-textbook.com/)
