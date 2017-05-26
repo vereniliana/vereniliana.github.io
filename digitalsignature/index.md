@@ -1,4 +1,4 @@
-# DIGITAL SIGNATURE
+## DIGITAL SIGNATURE
 
 Digital signature is a cryptographic value that is calculated from the data and a secret key known only by the signer. Digital signatures are based on public key cryptography, also known as asymmetric cryptography. The digital equivalent of a handwritten signature or stamped seal, but offering far more inherent security. As with conventional handwritten signatures, only the person who creates a digital message must be capable in generating a valid signature. The basic idea is that the person who signs the message uses a private key, and the receiving party uses the matching public key.
 
@@ -6,7 +6,7 @@ Digital signatures are one of the most important cryptographic tools and are wid
 
 > In many countries, including the United States, digital signatures have the same legal significance as the more traditional forms of signed documents. The United States Government Printing Office publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
 
-### HOW IT WORKS
+## HOW IT WORKS
 
 Using a public key algorithm, one can generate two keys that are mathematically linked: one private and one public. To create a digital signature, signing software (such as an email program) creates a one-way hash of the electronic data to be signed. The private key is then used to encrypt the hash. The encrypted hash -- along with other information, such as the hashing algorithm -- is the digital signature. 
 
