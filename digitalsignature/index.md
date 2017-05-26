@@ -4,9 +4,7 @@ Digital signature is a cryptographic value that is calculated from the data and 
 
 Digital signatures are one of the most important cryptographic tools and are widely used today. Most modern email programs support the use of digital signatures and digital certificates, making it easy to sign any outgoing emails and validate digitally signed incoming messages. Digital signatures are also used extensively to provide proof of authenticity, data integrity and non-repudiation of communications and transactions conducted over the Internet.
 
-<span style="font-size:2em;">
-> In many countries, including the United States, digital signatures have the same legal significance as the more traditional forms of signed documents. The United States Government Printing Office publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
-</span>
+In many countries, including the United States, digital signatures have the same legal significance as the more traditional forms of signed documents. The United States Government Printing Office publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
 
 ## HOW IT WORKS
 
