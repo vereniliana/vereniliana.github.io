@@ -34,3 +34,8 @@ Apart from ability to provide non-repudiation of message, the digital signature 
 *	**Data Integrity** − In case an attacker has access to the data and modifies it, the digital signature verification at receiver end fails. The hash of modified data and the output provided by the verification algorithm will not match. Hence, receiver can safely deny the message assuming that data integrity has been breached.
 *	**Non-repudiation** − Since it is assumed that only the signer has the knowledge of the signature key, he can only create unique signature on a given data. Thus, the receiver can present data and the digital signature to a third party as evidence if any dispute arises in the future.
 By adding public-key encryption to digital signature scheme, we can create a cryptosystem that can provide the four essential elements of security namely − Privacy, Authentication, Integrity, and Non-repudiation.
+
+######References
+[https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm] (https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
+[http://searchsecurity.techtarget.com/definition/digital-signature] (http://searchsecurity.techtarget.com/definition/digital-signature)
+[http://www.cryptography-textbook.com/] (http://www.cryptography-textbook.com/)
