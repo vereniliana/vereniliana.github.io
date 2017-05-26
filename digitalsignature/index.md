@@ -2,9 +2,9 @@
 
 Digital signature is a cryptographic value that is calculated from the data and a secret key known only by the signer. Digital signatures are based on public key cryptography, also known as asymmetric cryptography. The digital equivalent of a handwritten signature or stamped seal, but offering far more inherent security. As with conventional handwritten signatures, only the person who creates a digital message must be capable in generating a valid signature. The basic idea is that the person who signs the message uses a private key, and the receiving party uses the matching public key.
 
-Digital signatures are one of the most important cryptographic tools and are widely used today. Most modern email programs support the use of digital signatures and digital certificates, making it easy to sign any outgoing emails and validate digitally signed incoming messages. Digital signatures are also used extensively to provide proof of authenticity, data integrity and non-repudiation of communications and transactions conducted over the Internet.
-
 > In many countries, including the United States, digital signatures have the same legal significance as the more traditional forms of signed documents. The United States Government Printing Office publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
+
+Digital signatures are one of the most important cryptographic tools and are widely used today. Most modern email programs support the use of digital signatures and digital certificates, making it easy to sign any outgoing emails and validate digitally signed incoming messages. Digital signatures are also used extensively to provide proof of authenticity, data integrity and non-repudiation of communications and transactions conducted over the Internet.
 
 ## HOW IT WORKS
 
