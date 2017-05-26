@@ -4,7 +4,7 @@ Digital signature is a cryptographic value that is calculated from the data and 
 
 Digital signatures are one of the most important cryptographic tools and are widely used today. Most modern email programs support the use of digital signatures and digital certificates, making it easy to sign any outgoing emails and validate digitally signed incoming messages. Digital signatures are also used extensively to provide proof of authenticity, data integrity and non-repudiation of communications and transactions conducted over the Internet.
 
-In many countries, including the United States, digital signatures have the same legal significance as the more traditional forms of signed documents. The United States Government Printing Office publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
+> In many countries, including the United States, digital signatures have the same legal significance as the more traditional forms of signed documents. The United States Government Printing Office publishes electronic versions of the budget, public and private laws, and congressional bills with digital signatures.
 
 ## HOW IT WORKS
 
@@ -14,7 +14,7 @@ The reason for encrypting the hash instead of the entire message or document is 
 
 The value of the hash is unique to the hashed data. Any change in the data, even changing or deleting a single character, results in a different value. This attribute enables others to validate the integrity of the data by using the signer's public key to decrypt the hash. If the decrypted hash matches a second computed hash of the same data, it proves that the data hasn't changed since it was signed. If the two hashes don't match, the data has either been tampered with in some way (integrity) or the signature was created with a private key that doesn't correspond to the public key presented by the signer (authentication).
 
-![Digital Signature Scheme](https://vereniliana.github.io/digitalsignature/ds_pic.png)
+![Digital Signature Scheme](https://vereniliana.github.io/digitalsignature/ds_pic.jpg)
 
 The following points explain the entire process in detail
 *	Each person adopting this scheme has a public-private key pair.
