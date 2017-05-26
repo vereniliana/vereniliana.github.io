@@ -44,6 +44,6 @@ By adding public-key encryption to digital signature scheme, we can create a cry
 [https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm)
 [http://searchsecurity.techtarget.com/definition/digital-signature](http://searchsecurity.techtarget.com/definition/digital-signature)
 
-### <- [BACK](vereniliana.github.io)
 
-[![Digital Signature Scheme](https://vereniliana.github.io/digitalsignature/27754.png)](vereniliana.github.io)
+
+[![Home](https://vereniliana.github.io/digitalsignature/Home.png)](https://vereniliana.github.io)
