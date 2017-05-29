@@ -1,4 +1,4 @@
-<p align: center>
+<p align= "center">
  <h1>HOME</h1>
 </p>
 
