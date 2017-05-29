@@ -1,4 +1,6 @@
-# HOME
+<p align: center>
+ <h1>HOME</h1>
+</p>
 
 _Welcome to my site!_
 
