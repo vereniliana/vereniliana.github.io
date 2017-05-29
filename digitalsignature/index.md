@@ -45,4 +45,4 @@ By adding public-key encryption to digital signature scheme, we can create a cry
 [http://searchsecurity.techtarget.com/definition/digital-signature](http://searchsecurity.techtarget.com/definition/digital-signature)
 
 <br>
-[<img style="float: center;" src="https://vereniliana.github.io/digitalsignature/Home.png" width="48">](https://vereniliana.github.io)
+<center>[HOME](https://vereniliana.github.io)
