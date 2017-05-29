@@ -32,7 +32,7 @@ Companies like Apple, Google, and Nuance are reshaping the way voice-activation 
 
 CarPlay brings a stripped down and safety-focused version of iOS to your car’s touch-screen display. Simply connect your iPhone and your car’s factory-installed entertainment system is replaced by Apple’s familiar icons. Siri is fully integrated into CarPlay. Press the voice button on your steering wheel and Siri will be there to help you switch between playlists, navigate to the nearest gas station, send text messages, and many more.
 
-![Apple](https://vereniliana.github.io/speechrecognition/apple.jpg)
+![Apple](https://vereniliana.github.io/speechrecognition/Apple.jpg)
 <p align="center">
   <em>Source: Apple.com (http://www.apple.com/uk/ios/carplay/)</em>
 </p>
@@ -41,7 +41,7 @@ CarPlay brings a stripped down and safety-focused version of iOS to your car’s
 
 Unlike CarPlay, Android Auto connects via a USB cable, then relies on Bluetooth for voice phone calls through the car. Once your phone is plugged into the car, Android Auto activates a unique and important safety feature. It renders your phone basically useless to ensure you will not use it while driving. 
 
-![Google](https://vereniliana.github.io/speechrecognition/google.jpg)
+![Google](https://vereniliana.github.io/speechrecognition/Google.jpg)
 <p align="center">
   <em>Source: Maurizio Pesce (https://www.flickr.com/photos/pestoverde/18634357025)</em>
 </p>
@@ -52,7 +52,7 @@ There’s no need to pick it up, look at it, adjust the volume, nothing. All fiv
 
 As part of its Dragon Drive platform, the Dragon Drive Automotive Assistant combines Nuance’s voice, cloud, and connectivity components and offers a comprehensive suite of features and services. One thing users may take to immediately is the “conversational” interface associated with Dragon Drive. Its ability to process natural voice patterns is far more sophisticated compared to its competitors. There are even voice bio metric capabilities that will recognize which user is speaking. 
 
-![Nuance](https://vereniliana.github.io/speechrecognition/nuance.jpg)
+![Nuance](https://vereniliana.github.io/speechrecognition/Nuance.jpg)
 <p align="center">
   <em>Source: Good Car (https://www.youtube.com/channel/UCI-_RofH0z_WiLCrKKQVshQ)</em>
 </p>
@@ -60,7 +60,6 @@ As part of its Dragon Drive platform, the Dragon Drive Automotive Assistant comb
 Dragon Drive “learns” your road behaviors and updates in order to meet your needs before even having to ask. This is a feature similar to Google’s Nest which “learns” and automatically adjusts for optimal temperature settings in your house.
 
 No matter where in-car speech recognition goes next, consumers can rest assured that the focus is on equal parts safety and convenience. Plus, luring customers to a product with the latest bells and whistles isn’t all bad for the tech companies either. It’s important for drivers to remember that voice-activated does not equate to “distraction free”. It’s up to you to keep your eyes on the road.
-
 <br>
 ### References
 [https://www.globalme.net/blog/the-present-and-future-of-in-car-speech-recognition](https://www.globalme.net/blog/the-present-and-future-of-in-car-speech-recognition)
