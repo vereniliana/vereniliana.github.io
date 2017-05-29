@@ -15,6 +15,9 @@ Speech recognition is the ability of a machine or program to identify words and 
 Speech recognition works using algorithms through acoustic and language modeling. Acoustic modeling represents the relationship between linguistic units of speech and audio signals; language modeling matches sounds with word sequences to help distinguish between words that sound similar. Often, hidden Markov models are used as well to recognize temporal patterns in speech to improve accuracy within the system.
 
 ![Speech Processing](https://vereniliana.github.io/speechrecognition/howitworks.gif)
+<p align="center">
+  <em>Source: lumenvox.com (http://www.lumenvox.com/products/speech_engine/)</em>
+</p>
 
 Speech engines use this process to figure out what a speaker said:
 1.	The engine loads a list of words to be recognized. This list of words is called a grammar.
